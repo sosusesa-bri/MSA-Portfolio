@@ -1,0 +1,152 @@
+{
+  "common": {
+    "siteName": "MSAPortfolio",
+    "siteDescription": "Portofolio Developer Modern dengan Dashboard Interaktif",
+    "nav": {
+      "home": "Beranda",
+      "about": "Tentang",
+      "projects": "Proyek",
+      "contact": "Kontak",
+      "dashboard": "Dashboard"
+    },
+    "footer": {
+      "copyright": "© 2025 MSAPortfolio. Hak cipta dilindungi.",
+      "builtWith": "Dibangun dengan Next.js, TypeScript & Tailwind CSS",
+      "madeWith": "Dibuat dengan ❤️ oleh"
+    },
+    "theme": {
+      "light": "Mode Terang",
+      "dark": "Mode Gelap",
+      "toggle": "Ganti tema"
+    },
+    "language": {
+      "en": "English",
+      "id": "Indonesia",
+      "switch": "Ganti bahasa"
+    }
+  },
+  "home": {
+    "greeting": "Hai, Saya",
+    "name": "Muhammad Sabri Akbar",
+    "role": "Full Stack Developer",
+    "description": "Saya membangun pengalaman digital luar biasa dengan teknologi modern. Bersemangat tentang clean code, UI yang indah, dan arsitektur yang scalable.",
+    "cta": {
+      "projects": "Lihat Proyek Saya",
+      "contact": "Hubungi Saya",
+      "dashboard": "Dashboard Dev"
+    },
+    "techStack": {
+      "title": "Tech Stack",
+      "subtitle": "Teknologi yang saya gunakan"
+    }
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "subtitle": "Kenali saya lebih dekat",
+    "bio": {
+      "title": "Siapa Saya",
+      "description": "Saya adalah Full Stack Developer bersemangat dengan pengalaman 5+ tahun membangun aplikasi web. Saya mengkhususkan diri dalam React, Next.js, Node.js, dan TypeScript. Saya suka menciptakan solusi elegan untuk masalah kompleks dan terus belajar teknologi baru.",
+      "experience": "5+ Tahun Pengalaman",
+      "projects": "50+ Proyek Selesai",
+      "clients": "30+ Klien Puas"
+    },
+    "skills": {
+      "title": "Keahlian & Kemampuan",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Tools & Lainnya"
+    },
+    "techStack": {
+      "title": "Tech Stack",
+      "subtitle": "Perangkat teknologi saya"
+    }
+  },
+  "projects": {
+    "title": "Proyek",
+    "subtitle": "Beberapa hal yang telah saya bangun",
+    "filter": {
+      "all": "Semua",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "fullstack": "Full Stack"
+    },
+    "viewProject": "Lihat Proyek",
+    "viewCode": "Lihat Kode",
+    "techUsed": "Teknologi Digunakan"
+  },
+  "contact": {
+    "title": "Hubungi Saya",
+    "subtitle": "Mari bekerja sama",
+    "description": "Punya proyek atau ingin berkolaborasi? Jangan ragu untuk menghubungi. Saya selalu terbuka untuk berdiskusi tentang peluang baru.",
+    "form": {
+      "name": "Nama Anda",
+      "email": "Email Anda",
+      "message": "Pesan Anda",
+      "send": "Kirim Pesan",
+      "sending": "Mengirim...",
+      "success": "Pesan berhasil dikirim! Saya akan segera membalas.",
+      "error": "Terjadi kesalahan. Silakan coba lagi.",
+      "validation": {
+        "nameRequired": "Nama harus diisi",
+        "emailRequired": "Email harus diisi",
+        "emailInvalid": "Masukkan email yang valid",
+        "messageRequired": "Pesan harus diisi",
+        "messageTooShort": "Pesan harus minimal 10 karakter"
+      }
+    },
+    "social": {
+      "title": "Temukan Saya Di",
+      "email": "Kirim Email"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard Developer",
+    "subtitle": "Aktivitas coding & statistik saya",
+    "github": {
+      "title": "Statistik GitHub",
+      "contributions": "Total Kontribusi",
+      "commits": "Total Commit",
+      "repos": "Repo Publik",
+      "topLanguages": "Bahasa Teratas",
+      "contributionCalendar": "Kalender Kontribusi"
+    },
+    "wakatime": {
+      "title": "Aktivitas Coding",
+      "totalHours": "Total Jam",
+      "dailyAverage": "Rata-rata Harian",
+      "topLanguage": "Bahasa Teratas",
+      "languageBreakdown": "Distribusi Bahasa",
+      "weeklyActivity": "Aktivitas Mingguan"
+    },
+    "analytics": {
+      "title": "Analitik Website",
+      "pageViews": "Tampilan Halaman",
+      "uniqueVisitors": "Pengunjung Unik",
+      "liveVisitors": "Pengunjung Live",
+      "traffic": "Gambaran Trafik"
+    },
+    "typing": {
+      "title": "Performa Mengetik",
+      "wpm": "Kata Per Menit",
+      "accuracy": "Akurasi",
+      "bestScore": "Skor Terbaik",
+      "averageWpm": "Rata-rata WPM"
+    },
+    "lastUpdated": "Terakhir diperbarui",
+    "loading": "Memuat data...",
+    "error": "Tidak dapat memuat data. Menggunakan data demo.",
+    "demoData": "Menampilkan data demo"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Halaman Tidak Ditemukan",
+      "description": "Halaman yang Anda cari tidak ada.",
+      "goHome": "Ke Beranda"
+    },
+    "generic": {
+      "title": "Terjadi Kesalahan",
+      "description": "Terjadi kesalahan yang tidak terduga.",
+      "tryAgain": "Coba Lagi"
+    }
+  }
+}

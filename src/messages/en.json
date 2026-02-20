@@ -1,0 +1,152 @@
+{
+  "common": {
+    "siteName": "MSAPortfolio",
+    "siteDescription": "Modern Developer Portfolio with Interactive Dashboard",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "contact": "Contact",
+      "dashboard": "Dashboard"
+    },
+    "footer": {
+      "copyright": "© 2025 MSAPortfolio. All rights reserved.",
+      "builtWith": "Built with Next.js, TypeScript & Tailwind CSS",
+      "madeWith": "Made with ❤️ by"
+    },
+    "theme": {
+      "light": "Light Mode",
+      "dark": "Dark Mode",
+      "toggle": "Toggle theme"
+    },
+    "language": {
+      "en": "English",
+      "id": "Indonesian",
+      "switch": "Switch language"
+    }
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "name": "Muhammad Sabri Akbar",
+    "role": "Full Stack Developer",
+    "description": "I build exceptional digital experiences with modern technologies. Passionate about clean code, beautiful UI, and scalable architecture.",
+    "cta": {
+      "projects": "View My Projects",
+      "contact": "Get In Touch",
+      "dashboard": "Dev Dashboard"
+    },
+    "techStack": {
+      "title": "Tech Stack",
+      "subtitle": "Technologies I work with"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "bio": {
+      "title": "Who I Am",
+      "description": "I'm a passionate Full Stack Developer with 5+ years of experience building web applications. I specialize in React, Next.js, Node.js, and TypeScript. I love creating elegant solutions to complex problems and continuously learning new technologies.",
+      "experience": "5+ Years Experience",
+      "projects": "50+ Projects Completed",
+      "clients": "30+ Happy Clients"
+    },
+    "skills": {
+      "title": "Skills & Expertise",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Tools & Others"
+    },
+    "techStack": {
+      "title": "Tech Stack",
+      "subtitle": "My technology toolbox"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some things I've built",
+    "filter": {
+      "all": "All",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "fullstack": "Full Stack"
+    },
+    "viewProject": "View Project",
+    "viewCode": "View Code",
+    "techUsed": "Technologies Used"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's work together",
+    "description": "Have a project in mind or want to collaborate? Feel free to reach out. I'm always open to discussing new opportunities.",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! I'll get back to you soon.",
+      "error": "Something went wrong. Please try again.",
+      "validation": {
+        "nameRequired": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email",
+        "messageRequired": "Message is required",
+        "messageTooShort": "Message must be at least 10 characters"
+      }
+    },
+    "social": {
+      "title": "Find Me On",
+      "email": "Email Me"
+    }
+  },
+  "dashboard": {
+    "title": "Developer Dashboard",
+    "subtitle": "My coding activity & statistics",
+    "github": {
+      "title": "GitHub Statistics",
+      "contributions": "Total Contributions",
+      "commits": "Total Commits",
+      "repos": "Public Repos",
+      "topLanguages": "Top Languages",
+      "contributionCalendar": "Contribution Calendar"
+    },
+    "wakatime": {
+      "title": "Coding Activity",
+      "totalHours": "Total Hours",
+      "dailyAverage": "Daily Average",
+      "topLanguage": "Top Language",
+      "languageBreakdown": "Language Breakdown",
+      "weeklyActivity": "Weekly Activity"
+    },
+    "analytics": {
+      "title": "Website Analytics",
+      "pageViews": "Page Views",
+      "uniqueVisitors": "Unique Visitors",
+      "liveVisitors": "Live Visitors",
+      "traffic": "Traffic Overview"
+    },
+    "typing": {
+      "title": "Typing Performance",
+      "wpm": "Words Per Minute",
+      "accuracy": "Accuracy",
+      "bestScore": "Best Score",
+      "averageWpm": "Average WPM"
+    },
+    "lastUpdated": "Last updated",
+    "loading": "Loading data...",
+    "error": "Could not load data. Using demo values.",
+    "demoData": "Showing demo data"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The page you're looking for doesn't exist.",
+      "goHome": "Go Home"
+    },
+    "generic": {
+      "title": "Something went wrong",
+      "description": "An unexpected error occurred.",
+      "tryAgain": "Try Again"
+    }
+  }
+}

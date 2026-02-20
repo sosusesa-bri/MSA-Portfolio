@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://devportfolio.pro/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://devportfolio.pro/en" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://devportfolio.pro/id" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://devportfolio.pro/id</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://devportfolio.pro/en" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://devportfolio.pro/id" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://devportfolio.pro/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://devportfolio.pro/en/about" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://devportfolio.pro/id/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://devportfolio.pro/en/projects</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://devportfolio.pro/en/projects" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://devportfolio.pro/id/projects" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://devportfolio.pro/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://devportfolio.pro/en/contact" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://devportfolio.pro/id/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://devportfolio.pro/en/dashboard</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://devportfolio.pro/en/dashboard" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://devportfolio.pro/id/dashboard" />
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
