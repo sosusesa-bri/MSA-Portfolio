@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Modern Developer Portfolio with Interactive Dashboard",
   url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
   github: "https://github.com/sosusesa-bri",
-  linkedin: "https://www.linkedin.com/in/muhammad-sabri-akbar-1118622b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  linkedin: "https://www.linkedin.com/in/muhammadsabriakbar",
   instagram: "https://www.instagram.com/sosusesa_bri?igsh=cm1kZzU3cDRkcGp4",
   email: "muhammadsabriakbar@gmail.com",
 };
